@@ -1,0 +1,6 @@
+COS 203|Discrete Structures|3
+ENT 211|Entrepreneurship and Innovation|2
+IFT 211|Digital Logic Design|3
+MTH 201|Mathematical Methods I|3
+SEN 201|Introduction to Software Engineering|3
+CSC 299|SIWES I|3
